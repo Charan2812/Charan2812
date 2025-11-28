@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Charan2812/Charan2812/blob/main/Github_Banner.png)
 <h1 align="center">Hi 👋, I'm Peruboina Charan Teja</h1>
 <h3 align="center">Data Analyst specializing in Power BI, SQL, Python(Numpy,Pandas,Mathplotlib), Excel, and Data Visualization</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/22385870/file/original-bc7b9ee5b103b8f5b5784e054122d4a2.gif">
