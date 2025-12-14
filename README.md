@@ -4,8 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/22385870/file/original-bc7b9ee5b103b8f5b5784e054122d4a2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charan2812&label=Profile%20views&color=0e75b6&style=flat" alt="charan2812" /> </p>
 
-- I’m currently working [Beijing-Air-Quality-Dashboard](https://github.com/Charan2812/Beijing-Air-Quality-Dashboard)
-
+- I’m currently working [Enterprise-Retail-Intelligence-Dashboard](https://github.com/Charan2812/Enterprise-Retail-Intelligence-Dashboard)
 - I’m currently learning **Python (NUMPY, Pandas) ,SQL ,Advanced Excel (VLOOKUP, XLOOKUP, Pivot, Conditional Formatting), Power BI**
 
 - I’m looking to collaborate on [Data Analytics Projects (Power BI / SQL / Python)]("Open for collaboration”)
