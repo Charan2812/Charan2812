@@ -1,3 +1,4 @@
+# Charan Teja — Data Analyst
 ![logo](https://github.com/Charan2812/Charan2812/blob/main/Github_profile.png)
 <h1 align="center">Hi 👋, I'm Peruboina Charan Teja</h1>
 <h3 align="center">Data Analyst specializing in Power BI, SQL, Python(Numpy,Pandas,Mathplotlib), Excel, and Data Visualization</h3>
